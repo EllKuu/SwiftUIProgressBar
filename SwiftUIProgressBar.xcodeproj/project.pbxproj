@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B24DE70E2905D4D3008632EF /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24DE70D2905D4D3008632EF /* ProgressBar.swift */; };
 		B2D0CBC82905CFDB0099C54E /* SwiftUIProgressBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D0CBC72905CFDB0099C54E /* SwiftUIProgressBarApp.swift */; };
 		B2D0CBCA2905CFDB0099C54E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D0CBC92905CFDB0099C54E /* ContentView.swift */; };
 		B2D0CBCC2905CFDC0099C54E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2D0CBCB2905CFDC0099C54E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B24DE70D2905D4D3008632EF /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 		B2D0CBC42905CFDB0099C54E /* SwiftUIProgressBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIProgressBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2D0CBC72905CFDB0099C54E /* SwiftUIProgressBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIProgressBarApp.swift; sourceTree = "<group>"; };
 		B2D0CBC92905CFDB0099C54E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				B2D0CBC72905CFDB0099C54E /* SwiftUIProgressBarApp.swift */,
 				B2D0CBC92905CFDB0099C54E /* ContentView.swift */,
+				B24DE70D2905D4D3008632EF /* ProgressBar.swift */,
 				B2D0CBCB2905CFDC0099C54E /* Assets.xcassets */,
 				B2D0CBCD2905CFDC0099C54E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2D0CBCA2905CFDB0099C54E /* ContentView.swift in Sources */,
+				B24DE70E2905D4D3008632EF /* ProgressBar.swift in Sources */,
 				B2D0CBC82905CFDB0099C54E /* SwiftUIProgressBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
